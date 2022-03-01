@@ -13,6 +13,7 @@ Modify the program to produce the output given below (don't print the first two 
 You have to use the following commands in the <iomanip> header file
 
   ```c++
+  /*
 #include <iostream>
 using namespace std;
 int main() {
@@ -24,7 +25,7 @@ int main() {
             <<  names[r]
             << marks[r] << endl;
    }
-}
+}*/
 ```
 ```setw(), setprecision(), setiosflags(ios::fixed)```
 
